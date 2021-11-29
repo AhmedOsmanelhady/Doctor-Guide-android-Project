@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Last App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">دليل اسيوط الطبى</string>
+    <string name="nav_header_subtitle">ِAosmanElahdy85@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="home">الرئيسية</string>
+    <string name="hospitals">المستشفيات</string>
+    <string name="Phone">تليفون</string>
+    <string name="Saved">طبيبى</string>
+    <string name="Contact">نحن</string>
+    <string name="العيون">العيون</string>
+    <string name="الاورام">الاورام</string>
+    <string name="الباطبية">الباطبية</string>
+    <string name="المخ">المخ والأعصاب</string>
+    <string name="الصدرية">الصدرية</string>
+    <string name="الأطفال">الأطفال</string>
+    <string name="الأنف">الأنف والأذن والحنجرة</string>
+    <string name="العلاج">العلاج الطبيعى</string>
+    <string name="المسالك">المسالك البولية</string>
+    <string name="النفسية">العصبية والنفسية</string>
+    <string name="النساء">النساء والتوليد</string>
+    <string name="الجلدية">الجلدية والتناسلية</string>
+    <string name="السكر">الكبد والسكر</string>
+    <string name="التجميل">جراحة التجميل</string>
+    <string name="القلب">القلب</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="الأطباء">doctors</string>
+    <string name="الاطباء">الأطباء</string>
+    <string name="contact">تواصل</string>
+</resources>
